@@ -1,6 +1,6 @@
-##Welcome to my website!
+## Welcome to my website!
 
-#My favorite things
+# My favorite things
 -Sports
 -Computer science
 -Anime
